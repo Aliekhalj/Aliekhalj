@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Alireza 👋</h1>
 
 <p align="center">
-  <strong>CS Student • ML/AI Enthusiast • Future Quant Researcher</strong><br>
+  <strong>CS Student • ML/DL Enthusiast • Future Quant Researcher</strong><br>
   Exploring ML, finance, and algorithms while chasing misty forests and rainy vibes.
 </p>
 
