@@ -45,7 +45,8 @@ Git (starting), Linux (yet to dive), Jupyter, VSCode
 ### 🧠 Machine Learning (from scratch)
 - [Linear Regression — from scratch](https://github.com/Aliekhalj/linear-regression-from-scratch)  
   Implemented using only NumPy. Clean math, clean code.
-
+- [Nueral Network — from scratch](https://github.com/Aliekhalj/mnist-nn-scratch)  
+  A simple nueral network on the MNIST dataset using numpy.
 ---
 
 ### 📈 Financial / Quant Experiments  
