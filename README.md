@@ -10,8 +10,7 @@
 ## 🚀 About Me  
 - 🎓 Undergrad CS student from Iran  
 - 🧠 Passionate about **Machine Learning**, **Deep Learning**, and **Quant Finance**  
-- 🧩 Love turning complex math and data into clean, structured code  
-- ☕ Powered by black coffee, chill vibes, and coding curiosity  
+- 🧩 Love turning complex math and data into clean, structured code    
 - 🌲 Nature lover — forests, rain, mountains, and quiet, misty mornings inspire me  
 
 ---
@@ -23,7 +22,7 @@
 Python (getting pro), C++ (learning later), Java (basic)  
 
 **ML/DS:**  
-NumPy, pandas, scikit-learn, PyTorch (learning), yfinance  
+NumPy, pandas, scikit-learn, , Matplotlib, PyTorch (learning), yfinance  
 
 **Other:**  
 Git (starting), Linux (yet to dive), Jupyter, VSCode  
@@ -47,6 +46,9 @@ Git (starting), Linux (yet to dive), Jupyter, VSCode
   Implemented using only NumPy. Clean math, clean code.
 - [Nueral Network — from scratch](https://github.com/Aliekhalj/mnist-nn-scratch)  
   A simple nueral network on the MNIST dataset using numpy.
+- [K-Means Clustering — from scratch](https://github.com/Aliekhalj/kmeans-clustering-from-scratch)  
+  Implemented using only NumPy. Clean math, clean code.
+  
 ---
 
 ### 📈 Financial / Quant Experiments  
