@@ -1,103 +1,67 @@
 <h1 align="center">Hey, I'm Alireza 👋</h1>
 
 <p align="center">
-  <strong>CS Student • ML/DL Enthusiast • Future Quant Researcher</strong><br>
-  Exploring ML, finance and algorithms.
+  CS Student • ML / DL • Quant Research Aspirant<br>
+  Building ML systems from scratch, with math-first thinking.
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎓 Undergrad CS student from Iran  
-- 🧠 Passionate about **Machine Learning**, **Deep Learning**, and **Quant Finance**  
-- 🧩 Love turning complex math and data into clean, structured code    
-- 🌲 Nature lover — forests, rain, mountains, and quiet, misty mornings inspire me  
+## 🧭 Focus Areas
+- Machine Learning (theory → implementation)
+- Deep Learning & Neural Networks
+- Quantitative Finance & Time Series
+- Algorithms & Performance-oriented code
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-<p align="left">
-  
-**Languages:**  
-Python (advanced / daily use), C++ (learning later), Java (basic)  
+## 🧠 Machine Learning — From Scratch
+> Core ML algorithms implemented using NumPy and math-first principles.
 
-**ML/DS:**  
-NumPy, pandas, scikit-learn, Matplotlib, PyTorch (learning), yfinance  
-
-**Other:**  
-Git (basic workflow: branching, PRs), Linux (yet to dive), Jupyter, VSCode  
-
-</p>
+- [Linear Regression — from scratch](https://github.com/Aliekhalj/linear-regression-from-scratch)
+- [Neural Network (MNIST) — from scratch](https://github.com/Aliekhalj/mnist-nn-scratch)
+- [K-Means Clustering — from scratch](https://github.com/Aliekhalj/kmeans-clustering-from-scratch)
+<!-- add new ones here -->
 
 ---
 
-## 📚 Current Focus  
-- Strengthening **ML fundamentals** & Neural Networks  
-- Diving into **Python for Finance** & Quant projects  
-- Building **clean, practical projects** for GitHub  
-- Preparing for **Master’s in CS/ML in the US**  
+## 📊 Quant & Financial ML
+> Applying ML and statistical methods to financial time series.
+
+- [Bitcoin Time Series + Indicators](https://github.com/Aliekhalj/bitcoin-linear-regression)
+<!-- future projects live here -->
 
 ---
 
-## 📂 Featured Projects  
+## 🔬 Experiments & Research-Style Projects
+> Exploratory or research-driven projects with deeper analysis.
 
-### 🧠 Machine Learning (from scratch)
-- [Linear Regression — from scratch](https://github.com/Aliekhalj/linear-regression-from-scratch)  
-  Implemented using only NumPy. Clean math, clean code.
-- [Neural Network — from scratch](https://github.com/Aliekhalj/mnist-nn-scratch)  
-  A simple neural network on the MNIST dataset using numpy.
-- [K-Means Clustering — from scratch](https://github.com/Aliekhalj/kmeans-clustering-from-scratch)  
-  Implemented using only NumPy. Clean math, clean code.
-  
----
-
-### 📈 Financial / Quant Experiments  
-- [Bitcoin Timeseries + Indicators](https://github.com/Aliekhalj/bitcoin-linear-regression)  
-  - Price prediction using multiple models  
-  - Indicators like RSI, Bollinger Bands, HL%, Volatility  
-- (More Quant/Finance ML projects coming soon 🚀)
+- _Coming soon_
+<!-- this becomes dangerous later -->
 
 ---
 
-### 🎮 Fun / Creative  
-- [Rotating 3D ASCII Donut (pygame)](https://github.com/Aliekhalj/3D-ASCII-DONUT)  
-  A mix of math, ASCII art, and curiosity-driven coding.
+## 🎮 Creative / Curiosity-Driven
+> Math, visuals, simulations, and just-for-fun builds.
+
+- [3D ASCII Donut (pygame)](https://github.com/Aliekhalj/3D-ASCII-DONUT)
+<!-- fun but still smart -->
 
 ---
 
-## 📊 What’s Next?  
-<details>
-  <summary>See my roadmap 🔥</summary>
-
-### Short-term (Now–2025):
-- Build 3–5 solid ML/Quant projects  
-- Learn basics of C++ for performance-critical tasks  
-- Strengthen research-style coding & documentation  
-- Contribute to at least one open-source ML project  
-
-### Long-term:
-- Master’s in CS / ML in the US  
-- Become a Quant Researcher  
-- Work in fintech / hedge funds / HFT / ML research environments  
-
-</details>
+## 🛠️ Tools & Stack
+Python • NumPy • pandas • scikit-learn • PyTorch  
+Git • Linux • Jupyter • VSCode
 
 ---
 
-## 📫 Contact  
-Always happy to chat:  
-
-**GitHub:** [@aliekhalj](https://github.com/aliekhalj)  
-**Email:** (Aliekhalj@gmail.com)
-
----
-
-<p align="center">
-  <em>Curious, chill, and building projects that combine math, ML, and a bit of rain 🌧️🌲</em>
-</p>
+## 🎯 Roadmap
+- Build ML & Quant portfolio for MS CS / ML
+- Transition projects toward research-grade quality
+- Prepare for quant research roles
 
 ---
 
-<p align="center">
-  <em>Always learning. Always building. Always curious.</em>
-</p>
+## 📫 Contact
+GitHub: @aliekhalj  
+Email: Aliekhalj@gmail.com
