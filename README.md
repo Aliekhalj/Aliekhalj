@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>CS Student • ML/DL Enthusiast • Future Quant Researcher</strong><br>
-  Exploring ML, finance, and algorithms while chasing misty forests and rainy vibes.
+  Exploring ML, finance and algorithms.
 </p>
 
 ---
@@ -19,13 +19,13 @@
 <p align="left">
   
 **Languages:**  
-Python (getting pro), C++ (learning later), Java (basic)  
+Python (advanced / daily use), C++ (learning later), Java (basic)  
 
 **ML/DS:**  
-NumPy, pandas, scikit-learn, , Matplotlib, PyTorch (learning), yfinance  
+NumPy, pandas, scikit-learn, Matplotlib, PyTorch (learning), yfinance  
 
 **Other:**  
-Git (starting), Linux (yet to dive), Jupyter, VSCode  
+Git (basic workflow: branching, PRs), Linux (yet to dive), Jupyter, VSCode  
 
 </p>
 
@@ -44,8 +44,8 @@ Git (starting), Linux (yet to dive), Jupyter, VSCode
 ### 🧠 Machine Learning (from scratch)
 - [Linear Regression — from scratch](https://github.com/Aliekhalj/linear-regression-from-scratch)  
   Implemented using only NumPy. Clean math, clean code.
-- [Nueral Network — from scratch](https://github.com/Aliekhalj/mnist-nn-scratch)  
-  A simple nueral network on the MNIST dataset using numpy.
+- [Neural Network — from scratch](https://github.com/Aliekhalj/mnist-nn-scratch)  
+  A simple neural network on the MNIST dataset using numpy.
 - [K-Means Clustering — from scratch](https://github.com/Aliekhalj/kmeans-clustering-from-scratch)  
   Implemented using only NumPy. Clean math, clean code.
   
@@ -85,7 +85,7 @@ Git (starting), Linux (yet to dive), Jupyter, VSCode
 ---
 
 ## 📫 Contact  
-Always happy to chat about ML, Quant, or rainy forest vibes:  
+Always happy to chat:  
 
 **GitHub:** [@aliekhalj](https://github.com/aliekhalj)  
 **Email:** (Aliekhalj@gmail.com)
